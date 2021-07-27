@@ -1,0 +1,17 @@
+.info-background{
+    background-color: #fceae8;
+}
+.btn-color{
+    background-color: #ff408c;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    border: none;
+}
+.catagoris img{
+    width: 100px;
+}
+.headphone{
+    padding-top: 50px;
+}
